@@ -1,5 +1,7 @@
 body {
-    font-family: sans-serif;
+    font-family: "Italiana", sans-serif;
+  font-weight: 400;
+  font-style: normal;
     text-align: center;
 }
 
@@ -16,4 +18,14 @@ nav a {
     margin-bottom: 30px;
     text-decoration: none;
     color: black;
+}
+
+h1 {
+    background-color: #D1F69F;
+    padding: 10px;
+
+}
+
+h1 img {
+    width: 15%;
 }
