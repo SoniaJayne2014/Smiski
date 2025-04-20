@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: #D1F69F;
+    padding: 15px;
+    margin: 30px;
+}
+
+nav a {
+    background-color: #D1F69F;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: black;
+}
